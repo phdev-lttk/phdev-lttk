@@ -6,21 +6,8 @@ Me chamo Pablo Henrique, tenho 18 anos e sou do Distrito Federal. Atualmente, es
 <p align="left">
    
     
-    <a href="https://github.com/phdev-lttk?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/phdev-lttk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/phdev-lttk?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/phdev-lttk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+   
+</p> 
 
 ---
 
