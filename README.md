@@ -97,8 +97,6 @@ Me chamo Pablo Henrique, tenho 18 anos e sou do Distrito Federal. Atualmente, es
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
