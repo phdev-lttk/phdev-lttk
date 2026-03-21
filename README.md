@@ -94,22 +94,3 @@ Me chamo Pablo Henrique, tenho 18 anos e sou do Distrito Federal. Atualmente, es
 />
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phdev-lttk&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=7200" 
-  />
-
-  <img 
-    align="left" 
-    alt="Linguagens" 
-    height="200" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phdev-lttk&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=7200" 
-  />
-</p>
